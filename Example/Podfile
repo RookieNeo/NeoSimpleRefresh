@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NeoSimpleRefresh_Example' do
+  pod 'NeoSimpleRefresh', :path => '../'
+
+  target 'NeoSimpleRefresh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
