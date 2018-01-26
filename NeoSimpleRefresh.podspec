@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NeoSimpleRefresh'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of NeoSimpleRefresh.'
+  s.summary          = 'A simple RefreshControl '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+'A swift RefreshControl ,It is very easy to use,and you can config it customer'
                        DESC
 
   s.homepage         = 'https://github.com/Rookieneo/NeoSimpleRefresh'
