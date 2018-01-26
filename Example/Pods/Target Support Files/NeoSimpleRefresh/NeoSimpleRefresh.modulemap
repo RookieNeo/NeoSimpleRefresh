@@ -1,0 +1,6 @@
+framework module NeoSimpleRefresh {
+  umbrella header "NeoSimpleRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}

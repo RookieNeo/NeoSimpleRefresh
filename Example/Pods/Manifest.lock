@@ -1,0 +1,16 @@
+PODS:
+  - NeoSimpleRefresh (0.1.0)
+
+DEPENDENCIES:
+  - NeoSimpleRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  NeoSimpleRefresh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NeoSimpleRefresh: faafbba88ea8e226ce3cb068fb3800792693f133
+
+PODFILE CHECKSUM: d23c5b782a8ff215f369f6ffb2022c4057939656
+
+COCOAPODS: 1.4.0.rc.1

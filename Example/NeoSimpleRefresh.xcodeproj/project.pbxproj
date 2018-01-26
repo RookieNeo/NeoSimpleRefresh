@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06E89C93256412216DA7B239 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		06E89C93256412216DA7B239 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		0B87BB05BAA479DBB8442161 /* Pods_NeoSimpleRefresh_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeoSimpleRefresh_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* NeoSimpleRefresh_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeoSimpleRefresh_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -41,10 +41,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		73BA6385266A2A0511042BF8 /* Pods-NeoSimpleRefresh_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoSimpleRefresh_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NeoSimpleRefresh_Tests/Pods-NeoSimpleRefresh_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		750A58DE5143740221B9EF20 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		750A58DE5143740221B9EF20 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		793A5879CDD38D64243189DC /* Pods-NeoSimpleRefresh_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoSimpleRefresh_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NeoSimpleRefresh_Example/Pods-NeoSimpleRefresh_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		797276897BE6B89C9F623A04 /* Pods-NeoSimpleRefresh_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoSimpleRefresh_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NeoSimpleRefresh_Example/Pods-NeoSimpleRefresh_Example.release.xcconfig"; sourceTree = "<group>"; };
-		81652F825B613CC5B1D6D393 /* NeoSimpleRefresh.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NeoSimpleRefresh.podspec; path = ../NeoSimpleRefresh.podspec; sourceTree = "<group>"; };
+		81652F825B613CC5B1D6D393 /* NeoSimpleRefresh.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NeoSimpleRefresh.podspec; path = ../NeoSimpleRefresh.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BD388D0327756C4244A9B593 /* Pods-NeoSimpleRefresh_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoSimpleRefresh_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NeoSimpleRefresh_Tests/Pods-NeoSimpleRefresh_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E77558BC45FD56B1B6B3682B /* Pods_NeoSimpleRefresh_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeoSimpleRefresh_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
